@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **luizeduardocarvalho/luizeduardocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizeduardocarvalho)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardocarvalho&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
