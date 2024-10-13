@@ -2,7 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-luizeduardocarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-eduardo-carvalho/)](https://www.linkedin.com/in/luiz-eduardo-carvalho/)
 [![Outlook Badge](https://img.shields.io/badge/-luiz.ferreira.carvalho@hotmail.com-c14438?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:luiz.ferreira.carvalho@hotmail.com)
 ---
-<img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardocarvalho&layout=compact&theme=dracula" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardocarvalho&layout=compact&theme=dracula&hide=css,scss,javascript,html" />
 <!--
 **luizeduardocarvalho/luizeduardocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardocarvalho&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizeduardocarvalho&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />-->
